@@ -1,4 +1,4 @@
-# jadwal_sholat
+# Arah-Benar-Aplication
 
 A new Flutter project.
 
